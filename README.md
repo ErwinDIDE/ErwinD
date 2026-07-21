@@ -44,12 +44,33 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
   </p>
 </section>
 
-### 🚕 2. [Pipeline de Données Scalable (Taxi & Météo)](https://github.com/ErwinDIDE)
+### 📊 2. [Dashboards & Analytics - Power BI](https://github.com/ErwinDIDE)
+> **Stack :** `Power BI` • `DAX` • `Modélisation de Données`
+* Modélisation de données analytiques, création de mesures DAX et conception de rapports visuels interactifs.
+* Analyse des ventes, suivi du volume de commandes et segmentation des clients.
+
+<section id="powerbi-dashboard" style="margin: 40px 0;">
+  <h2>📊 Tableau de bord – Sales Dashboard 2026 (Power BI)</h2>
+  <p>Aperçu visuel de l'analyse globale des ventes et des performances produits :</p>
+
+  <div style="position: relative; width: 100%; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img 
+      src="powerbi_preview.png" 
+      alt="Sales Dashboard 2026" 
+      style="width: 100%; display: block;" />
+  </div>
+
+  <p style="font-size: 0.9em; text-align: center; margin-top: 10px;">
+    <i>🛠️ Modélisation en étoile & mesures DAX développées sous Power BI Desktop</i>
+  </p>
+</section>
+
+### 🚕 3. [Pipeline de Données Scalable (Taxi & Météo)](https://github.com/ErwinDIDE)
 > **Stack :** `Spark` • `Flink` • `dbt` • `Airflow` • `Docker`
 *   Conception d'une architecture modulaire capable d'ingérer, stocker et transformer des données de trajets de taxis en temps réel croisées avec des conditions météo.
 *   Modélisation de données analytiques et orchestration bout en bout du pipeline.
 
-### 💳 3. [Plateforme MLOps - Détection de Fraude Bancaire](https://github.com/ErwinDIDE)
+### 💳 4. [Plateforme MLOps - Détection de Fraude Bancaire](https://github.com/ErwinDIDE)
 > **Stack :** `Python` • `FastAPI` • `MLflow` • `W&B` • `XGBoost`
 *   Entraînement et optimisation d'un modèle de classification XGBoost sur des données Kaggle pour maximiser le rappel et la précision.
 *   Mise en place d'une API de prédiction performante via **FastAPI**.

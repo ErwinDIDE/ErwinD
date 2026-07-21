@@ -55,7 +55,7 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
 
   <div style="position: relative; width: 100%; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <img 
-      src="powerbi_preview.png" 
+      src="Dashboard.png" 
       alt="Sales Dashboard 2026" 
       style="width: 100%; display: block;" />
   </div>

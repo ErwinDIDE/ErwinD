@@ -21,18 +21,7 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
 
 ## 📌 Projets à la une
 
-### 🚕 1. [Pipeline de Données Scalable (Taxi & Météo)](https://github.com/ErwinDIDE)
-> **Stack :** `Spark` • `Flink` • `dbt` • `Airflow` • `Docker`
-*   Conception d'une architecture modulaire capable d'ingérer, stocker et transformer des données de trajets de taxis en temps réel croisées avec des conditions météo.
-*   Modélisation de données analytiques et orchestration bout en bout du pipeline.
-
-### 💳 2. [Plateforme MLOps - Détection de Fraude Bancaire](https://github.com/ErwinDIDE)
-> **Stack :** `Python` • `FastAPI` • `MLflow` • `W&B` • `XGBoost`
-*   Entraînement et optimisation d'un modèle de classification XGBoost sur des données Kaggle pour maximiser le rappel et la précision.
-*   Mise en place d'une API de prédiction performante via **FastAPI**.
-*   Tracking des expériences, versioning des modèles et suivi des métriques en temps réel sur **MLflow** & **W&B**.
-
-### 📊 3. [Dashboards & Analytics (Ventes & CRM)](https://github.com/ErwinDIDE)
+### 📊 1. [Dashboards & Analytics (Ventes & CRM)](https://github.com/ErwinDIDE)
 > **Stack :** `Tableau` • `Power BI` • `Python`
 *   Conception de tableaux de bord interactifs pour l'analyse de performances multi-annuelles et l'aide à la décision business.
 *   *Découvrez mon dashboard interactif en ligne sur [Mon profil Tableau Public](https://public.tableau.com/app/profile/erwin.dide/vizzes)
@@ -54,6 +43,17 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
     <i>Problème d'affichage ? <a href="https://public.tableau.com/views/Projet_Dashboard_Ventes_Multi_Annees/SalesDashboard" target="_blank">Ouvrir directement sur Tableau Public ↗</a></i>
   </p>
 </section>
+
+### 🚕 2. [Pipeline de Données Scalable (Taxi & Météo)](https://github.com/ErwinDIDE)
+> **Stack :** `Spark` • `Flink` • `dbt` • `Airflow` • `Docker`
+*   Conception d'une architecture modulaire capable d'ingérer, stocker et transformer des données de trajets de taxis en temps réel croisées avec des conditions météo.
+*   Modélisation de données analytiques et orchestration bout en bout du pipeline.
+
+### 💳 3. [Plateforme MLOps - Détection de Fraude Bancaire](https://github.com/ErwinDIDE)
+> **Stack :** `Python` • `FastAPI` • `MLflow` • `W&B` • `XGBoost`
+*   Entraînement et optimisation d'un modèle de classification XGBoost sur des données Kaggle pour maximiser le rappel et la précision.
+*   Mise en place d'une API de prédiction performante via **FastAPI**.
+*   Tracking des expériences, versioning des modèles et suivi des métriques en temps réel sur **MLflow** & **W&B**.
 
 ---
 

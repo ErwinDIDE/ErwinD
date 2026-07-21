@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est Erwin DIDE !
+#  Bonjour, moi c'est Erwin DIDE !
 
 ### 🚀 Data Engineer | Étudiant en Master d'Ingénierie (Data)
 

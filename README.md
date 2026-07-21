@@ -100,8 +100,8 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
 </section>
 
 <section id="streamlit-dashboard" style="margin: 40px 0;">
-  <h2>📊 Application Interactive – E-Commerce Analytics (Streamlit)</h2>
-  <p>Explorez le tableau de bord interactif alimenté par le pipeline Dagster & dbt :</p>
+  <h2>📊 Application – E-Commerce Analytics (Streamlit)</h2>
+  <p>Explorez le tableau de bord alimenté par le pipeline Dagster & dbt :</p>
 
   <div style="position: relative; width: 100%; height: 750px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <iframe 

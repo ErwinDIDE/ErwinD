@@ -74,6 +74,31 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
   * **Modélisation & Data Warehousing :** Création des tables de faits et de dimensions (schéma en étoile) avec **dbt**.
   * **Visualisation & Conteneurisation :** Application interactive **Streamlit** pour piloter les KPIs analytiques, conteneurisée sous **Docker**.
 
+<section id="architecture-pipeline" style="margin: 30px 0;">
+  <h3>🏗️ Architecture & Modélisation du Pipeline</h3>
+  <p>Aperçu de l'orchestration des assets sous Dagster et de la modélisation en étoile :</p>
+  
+  <div style="display: flex; gap: 20px; justify-content: space-between; flex-wrap: wrap; margin-bottom: 20px;">
+    <!-- DAG -->
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+      <img 
+        src="DAG_Dagster.png" 
+        alt="Dagster Assets Lineage" 
+        style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      <p style="font-size: 0.85em; margin-top: 8px;"><i>Graphe d'orchestration & dépendances des Data Assets (Dagster)</i></p>
+    </div>
+
+    <!-- Image Modèle de données -->
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+      <img 
+        src="docs/data_model.png" 
+        alt="Star Schema dbt DuckDB" 
+        style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      <p style="font-size: 0.85em; margin-top: 8px;"><i>Modélisation décisionnelle en étoile - Star Schema (dbt / DuckDB)</i></p>
+    </div>
+  </div>
+</section>
+
 <section id="streamlit-dashboard" style="margin: 40px 0;">
   <h2>📊 Application Interactive – E-Commerce Analytics (Streamlit)</h2>
   <p>Explorez le tableau de bord interactif alimenté par le pipeline Dagster & dbt :</p>

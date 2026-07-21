@@ -22,7 +22,7 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
 ## 📌 Projets à la une
 
 ### 📊 1. [Dashboards & Analytics (Ventes & CRM)](https://github.com/ErwinDIDE)
-> **Stack :** `Tableau` • `Power BI` • `Python`
+> **Stack :** `Tableau` 
 *   Conception de tableaux de bord interactifs pour l'analyse de performances multi-annuelles et l'aide à la décision business.
 *   *Découvrez mon dashboard interactif en ligne sur [Mon profil Tableau Public](https://public.tableau.com/app/profile/erwin.dide/vizzes)
 

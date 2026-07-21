@@ -66,12 +66,38 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
   </p>
 </section>
 
-### 🚕 3. [Pipeline de Données Scalable (Taxi & Météo)](https://github.com/ErwinDIDE)
+### 📊 3. [E-Commerce Data Pipeline & Dashboard](https://github.com/ErwinDIDE)
+> **Stack :** `Python` • `Streamlit` • `Dagster` • `dbt` • `Docker` • `REST API`
+* Conception d'un pipeline ELT complet et d'un dashboard analytique pour le suivi de performances d'un site e-commerce :
+  * **Ingestion & Extraction :** Collecte des données brutes (Produits, Utilisateurs, Commandes) depuis l'API *DummyJSON*.
+  * **Orchestration :** Gestion du workflow et matérialisation des *Data Assets* avec **Dagster**.
+  * **Modélisation & Data Warehousing :** Création des tables de faits et de dimensions (schéma en étoile) avec **dbt**.
+  * **Visualisation & Conteneurisation :** Application interactive **Streamlit** pour piloter les KPIs analytiques, conteneurisée sous **Docker**.
+
+<section id="streamlit-dashboard" style="margin: 40px 0;">
+  <h2>📊 Application Interactive – E-Commerce Analytics (Streamlit)</h2>
+  <p>Explorez le tableau de bord interactif alimenté par le pipeline Dagster & dbt :</p>
+
+  <div style="position: relative; width: 100%; height: 750px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <iframe 
+      src="https://data-processingapp.streamlit.app/?embed=true" 
+      width="100%" 
+      height="100%" 
+      style="border: none;">
+    </iframe>
+  </div>
+
+  <p style="font-size: 0.9em; text-align: center; margin-top: 10px;">
+    <i>Problème d'affichage ? <a href="https://data-processingapp.streamlit.app" target="_blank">Ouvrir l'application dans un nouvel onglet ↗</a></i>
+  </p>
+</section>
+
+### 🚕 4. [Pipeline de Données Scalable (Taxi & Météo)](https://github.com/ErwinDIDE)
 > **Stack :** `Spark` • `Flink` • `dbt` • `Airflow` • `Docker`
 *   Conception d'une architecture modulaire capable d'ingérer, stocker et transformer des données de trajets de taxis en temps réel croisées avec des conditions météo.
 *   Modélisation de données analytiques et orchestration bout en bout du pipeline.
 
-### 💳 4. [Plateforme MLOps - Détection de Fraude Bancaire](https://github.com/ErwinDIDE)
+### 💳 5. [Plateforme MLOps - Détection de Fraude Bancaire](https://github.com/ErwinDIDE)
 > **Stack :** `Python` • `FastAPI` • `MLflow` • `W&B` • `XGBoost`
 *   Entraînement et optimisation d'un modèle de classification XGBoost sur des données Kaggle pour maximiser le rappel et la précision.
 *   Mise en place d'une API de prédiction performante via **FastAPI**.

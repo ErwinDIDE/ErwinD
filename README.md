@@ -91,7 +91,7 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
     <!-- Image Modèle de données -->
     <div style="flex: 1; min-width: 300px; text-align: center;">
       <img 
-        src="docs/data_model.png" 
+        src="LINEARGRAPH.png" 
         alt="Star Schema dbt DuckDB" 
         style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
       <p style="font-size: 0.85em; margin-top: 8px;"><i>Modélisation décisionnelle en étoile - Star Schema (dbt / DuckDB)</i></p>

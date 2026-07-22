@@ -1,12 +1,12 @@
 #  Bonjour, moi c'est Erwin DIDE !
 
-### 🚀 Data Engineer | Étudiant en Master d'Ingénierie (Data)
+### Data Engineer | Étudiant en Master d'Ingénierie (Data)
 
 Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestration de pipelines complexes et le MLOps, j'aime concevoir des architectures de données modulaires, scalables et orientées business.
 
 ---
 
-## 🛠️ Stack Technique & Compétences
+## Stack Technique & Compétences
 
 | Domaine | Technologies & Outils |
 | :--- | :--- |

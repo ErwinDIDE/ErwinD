@@ -2,7 +2,7 @@
 
 ### Data Engineer | Étudiant en Master d'Ingénierie (Data)
 
-Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestration de pipelines complexes et le MLOps, j'aime concevoir des architectures de données modulaires, scalables et orientées business.
+Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, je conçois et je construire des systèmes pour collecter et traiter des données qui sont utilisées pour relever des décisions commerciales. L'orchestration de pipelines complexes et le MLOps, la conception des architectures de données modulaires, scalables font partie intégrante des compétences acquises tout au long de mon parcours.
 
 <div align="center">
   <img src="profil.jpeg" alt="Erwin DIDE" width="160" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover;" />

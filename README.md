@@ -1,4 +1,4 @@
-#  Erwin DIDE - À la recherche d'un stage de fin d'études !
+#  Erwin DIDE - Recherche un stage de fin d'études
 
 ### Data Engineer | Étudiant en Master d'Ingénierie (Data)
 

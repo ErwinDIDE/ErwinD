@@ -8,7 +8,7 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, l'orchestr
   <img src="profil.jpeg" alt="Erwin DIDE" width="160" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover;" />
   
   <h1>Erwin DIDE</h1>
-  <p><b>Data Engineer & Business Analyst Student</b></p>
+  <p><b>Data Engineer </b></p>
 
 </div>
 

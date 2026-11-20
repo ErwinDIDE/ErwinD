@@ -35,8 +35,8 @@ L'architecture des données de ce projet suit une **architecture Médaillon** ar
 
 <div style="position: relative; width: 100%; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <img 
-      src="Dashboard.jpg" 
-      alt="Sales Dashboard 2026" 
+      src="architecture.drawio.png" 
+      alt="Architecture des données" 
       style="width: 100%; display: block;" />
 </div>
 

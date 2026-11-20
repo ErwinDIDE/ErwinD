@@ -29,7 +29,7 @@ Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, je conçoi
 
 ## 📌 Projets à la une
 
-# <a href="[projet-data-warehouse-et-analytics](https://github.com/ErwinDIDE/projet-sql-data-warehouse)"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/link-2.svg" width="22" height="22" alt="Icône de lien" /></a> Projet DataWarehouse et Analytics
+# <a href="https://github.com/ErwinDIDE/projet-sql-data-warehouse"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/link-2.svg" width="22" height="22" alt="Icône de lien" /></a> Projet DataWarehouse et Analytics
 
 ## <a href="#architecture-des-données"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/link-2.svg" width="18" height="18" alt="Icône de lien" /></a> 🏗️ Architecture des données
 

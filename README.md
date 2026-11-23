@@ -1,14 +1,14 @@
 #  Erwin DIDE - Recherche un stage de fin d'études
 
-### Data Engineer | Étudiant en Master d'Ingénierie (Data)
+### Étudiant en Master 2 Data
 
-Bienvenue sur mon profil GitHub ! Passionné par la Data Engineering, je conçois et je construire des systèmes pour collecter et traiter des données qui sont utilisées pour relever des décisions commerciales. L'orchestration de pipelines complexes et le MLOps, la conception des architectures de données modulaires, scalables font partie intégrante des compétences acquises tout au long de mon parcours.
+Bienvenue sur mon profil GitHub ! Je suis passionné par l'ingénierie des données, de la construction des systèmes pour collecter et traiter des données qui sont utilisées pour relever des décisions commerciales à l'orchestration de pipelines complexes et le MLOps.
 
 <div align="center">
   <img src="profil.jpeg" alt="Erwin DIDE" width="160" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover;" />
   
   <h1>Erwin DIDE</h1>
-  <p><b>Data Engineer </b></p>
+  <p><b>Étudiant en dernière année de Master </b></p>
 
 </div>
 

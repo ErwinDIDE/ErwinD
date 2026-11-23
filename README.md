@@ -1,6 +1,6 @@
 #  Erwin DIDE - Recherche un stage de fin d'études
 
-### Étudiant en Master 2 Data
+### Étudiant en dernière année de Master spécialisation Data
 
 Bienvenue sur mon profil GitHub ! Je suis passionné par l'ingénierie des données, de la construction des systèmes pour collecter et traiter des données qui sont utilisées pour relever des décisions commerciales à l'orchestration de pipelines complexes et le MLOps.
 

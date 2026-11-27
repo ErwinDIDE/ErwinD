@@ -46,6 +46,12 @@ L'architecture des données de ce projet suit une **architecture Médaillon** ar
 2. **Couche Silver :** Comprend les processus de nettoyage, de standardisation et de normalisation afin de préparer les données pour l'analyse.
 3. **Couche Gold :** Héberge les données prêtes pour le métier, modélisées selon un schéma en étoile (*star schema*) requis pour le reporting et l'analytique.
 
+## <a href="#modèle-dintégration"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/link-2.svg" width="18" height="18" alt="Icône de lien" /></a> 🔗 Modèle d'intégration
+
+Le diagramme suivant présente le modèle d'intégration des données et les relations entre les tables :
+
+![Modèle d'intégration des données](integration_model.drawio.png)
+
 ### 📊 1. [Dashboards & Analytics (Ventes & CRM)](https://github.com/ErwinDIDE)
 > **Stack :** `Tableau` 
 *   Conception de tableaux de bord interactifs pour l'analyse de performances multi-annuelles et l'aide à la décision business.

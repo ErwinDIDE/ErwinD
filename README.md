@@ -52,7 +52,7 @@ Le diagramme suivant présente le modèle d'intégration des données et les rel
 
 ![Modèle d'intégration des données](integration_model.drawio.png)
 
-### 📊 1. [Dashboards & Analytics (Ventes & CRM)](https://github.com/ErwinDIDE)
+### 📊  [Dashboards & Analytics (Ventes & CRM)](https://github.com/ErwinDIDE)
 > **Stack :** `Tableau` 
 *   Conception de tableaux de bord interactifs pour l'analyse de performances multi-annuelles et l'aide à la décision business.
 *   *Découvrez mon dashboard interactif en ligne sur [Mon profil Tableau Public](https://public.tableau.com/app/profile/erwin.dide/vizzes)
@@ -76,7 +76,7 @@ Le diagramme suivant présente le modèle d'intégration des données et les rel
     </p>
   </section>
 
-### 📊 2. [Dashboards & Analytics - Power BI](https://github.com/ErwinDIDE)
+### 📊  [Dashboards & Analytics - Power BI](https://github.com/ErwinDIDE)
 > **Stack :** `Power BI` • `DAX` • `Modélisation de Données`
 * Modélisation de données analytiques, création de mesures DAX et conception de rapports visuels interactifs.
 * Analyse des ventes, suivi du volume de commandes et segmentation des clients.
@@ -97,7 +97,7 @@ Le diagramme suivant présente le modèle d'intégration des données et les rel
   </p>
 </section>
 
-### 📊 3. [E-Commerce Data Pipeline & Dashboard](https://github.com/ErwinDIDE)
+### 📊  [E-Commerce Data Pipeline & Dashboard](https://github.com/ErwinDIDE)
 > **Stack :** `Python` • `Streamlit` • `Dagster` • `dbt` • `Docker` • `REST API`
 * Conception d'un pipeline ELT complet et d'un dashboard analytique pour le suivi de performances d'un site e-commerce :
   * **Ingestion & Extraction :** Collecte des données brutes (Produits, Utilisateurs, Commandes) depuis l'API *DummyJSON*.
@@ -148,12 +148,12 @@ Le diagramme suivant présente le modèle d'intégration des données et les rel
   </p>
 </section>
 
-### 🚕 4. [Pipeline de Données Scalable (Taxi & Météo)](https://github.com/ErwinDIDE)
+### 🚕  [Pipeline de Données Scalable (Taxi & Météo)](https://github.com/ErwinDIDE)
 > **Stack :** `Spark` • `Flink` • `dbt` • `Airflow` • `Docker`
 *   Conception d'une architecture modulaire capable d'ingérer, stocker et transformer des données de trajets de taxis en temps réel croisées avec des conditions météo.
 *   Modélisation de données analytiques et orchestration bout en bout du pipeline.
 
-### 💳 5. [Plateforme MLOps - Détection de Fraude Bancaire](https://github.com/ErwinDIDE)
+### 💳  [Plateforme MLOps - Détection de Fraude Bancaire](https://github.com/ErwinDIDE)
 > **Stack :** `Python` • `FastAPI` • `MLflow` • `W&B` • `XGBoost`
 *   Entraînement et optimisation d'un modèle de classification XGBoost sur des données Kaggle pour maximiser le rappel et la précision.
 *   Mise en place d'une API de prédiction performante via **FastAPI**.

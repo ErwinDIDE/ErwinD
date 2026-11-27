@@ -2,10 +2,10 @@
 
 ### Étudiant en dernière année de Master spécialisation Data
 
-Bienvenue sur mon profil GitHub ! Je suis passionné par l'ingénierie des données, de la construction de systèmes pour collecter et traiter des données destinées à la prise de décision jusqu'à l'orchestration de pipelines complexes et le MLOps.
+Bienvenue sur mon profil GitHub ! Je suis passionné par l'ingénierie des données, de la construction des systèmes pour collecter et traiter des données qui sont utilisées pour relever des décisions commerciales à l'orchestration de pipelines complexes et le MLOps.
 
 <div align="center">
-  <img src="profil.jpeg" alt="Erwin DIDE" width="160" height="160" />
+  <img src="profil.jpeg" alt="Erwin DIDE" width="160" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover;" />
   <h1>Erwin DIDE</h1>
   <p><b>Étudiant en dernière année de Master</b></p>
 </div>
@@ -51,14 +51,28 @@ Le diagramme suivant présente le modèle d'intégration des données et les rel
 
 ---
 
-### 📊 [Dashboards & Analytics (Ventes & CRM)](https://public.tableau.com/app/profile/erwin.dide/vizzes)
+### 📊 [Dashboards & Analytics (Ventes & CRM)](https://github.com/ErwinDIDE)
 > **Stack :** `Tableau`
 - Conception de tableaux de bord interactifs pour l'analyse de performances multi-annuelles et l'aide à la décision business.
 - *Découvrez mon dashboard interactif en ligne sur [Mon profil Tableau Public](https://public.tableau.com/app/profile/erwin.dide/vizzes).*
 
-#### 📊 Tableau de bord interactif – Analyse des Ventes Multi-Années
-> *(GitHub n'autorise pas l'intégration directe d'iframes ; cliquez sur le lien ci-dessous pour manipuler le tableau de bord en ligne)*  
-> 👉 **[Ouvrir le dashboard interactif sur Tableau Public ↗](https://public.tableau.com/views/Projet_Dashboard_Ventes_Multi_Annees/SalesDashboard)**
+<section id="tableau-dashboard" style="margin: 40px 0;">
+  <h2>📊 Tableau de bord interactif – Analyse des Ventes Multi-Années</h2>
+  <p>Explorez les KPIs, filtrez par région ou catégorie de produits directement ci-dessous :</p>
+
+  <div style="position: relative; width: 100%; height: 750px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <iframe 
+      src="https://public.tableau.com/views/Projet_Dashboard_Ventes_Multi_Annees/SalesDashboard?:showVizHome=no&:embed=true" 
+      width="100%" 
+      height="100%" 
+      style="border: none;">
+    </iframe>
+  </div>
+
+  <p style="font-size: 0.9em; text-align: center; margin-top: 10px;">
+    <i>Problème d'affichage ? <a href="https://public.tableau.com/views/Projet_Dashboard_Ventes_Multi_Annees/SalesDashboard" target="_blank">Ouvrir directement sur Tableau Public ↗</a></i>
+  </p>
+</section>
 
 ---
 
@@ -102,8 +116,23 @@ Le diagramme suivant présente le modèle d'intégration des données et les rel
   </tr>
 </table>
 
-#### 📊 Application – E-Commerce Analytics (Streamlit)
-> 👉 **[Ouvrir l'application interactive Streamlit dans un nouvel onglet ↗](https://data-processingapp.streamlit.app)**
+<section id="streamlit-dashboard" style="margin: 40px 0;">
+  <h2>📊 Application – E-Commerce Analytics (Streamlit)</h2>
+  <p>Explorez le tableau de bord alimenté par le pipeline Dagster & dbt :</p>
+
+  <div style="position: relative; width: 100%; height: 750px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <iframe 
+      src="https://data-processingapp.streamlit.app/?embed=true" 
+      width="100%" 
+      height="100%" 
+      style="border: none;">
+    </iframe>
+  </div>
+
+  <p style="font-size: 0.9em; text-align: center; margin-top: 10px;">
+    <i>Problème d'affichage ? <a href="https://data-processingapp.streamlit.app" target="_blank">Ouvrir l'application dans un nouvel onglet ↗</a></i>
+  </p>
+</section>
 
 ---
 
